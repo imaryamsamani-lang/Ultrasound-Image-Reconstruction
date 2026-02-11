@@ -84,7 +84,6 @@ Research on efficient deep learning for medical ultrasound
 ## License
 
 This project is intended for research and academic use.
-Please cite the corresponding paper if you use this code in your work.
 
 ## Citation
 
