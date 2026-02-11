@@ -68,6 +68,8 @@ Validation and quantitative evaluation
 
 ## Sample Results
 
+<img src="sample1.png" alt="diagram" width="400"/>
+
 ![diagram](samples/sample1.png)
 ![diagram](samples/sample2.png)
 
