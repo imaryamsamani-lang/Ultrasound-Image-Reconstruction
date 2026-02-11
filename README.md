@@ -37,7 +37,7 @@ Capsule layers: Replace deep convolutional stacks to reduce redundancy while pre
 
 This design allows UCGNet to maintain diagnostic image quality with substantially fewer parameters.
 
-![diagram](samples/model.png)
+<img src="samples/model.png" alt="diagram" width="1200"/>
 
 ## Dataset
 
@@ -69,9 +69,7 @@ Validation and quantitative evaluation
 ## Sample Results
 
 <img src="samples/sample1.png" alt="diagram" width="400"/>
-
-![diagram](samples/sample1.png)
-![diagram](samples/sample2.png)
+<img src="samples/sample2.png" alt="diagram" width="400"/>
 
 ## Applications
 
