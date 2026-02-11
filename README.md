@@ -92,7 +92,11 @@ If you use UCGNet in your research, please cite:
 
 ```bash
 @article{UCGNet2026,
-  title={UCGNet: Capsule-Guided GAN for Ultrasound Image Reconstruction from Single-Plane Wave RF Data},
+  title   = {UCGNet: Capsule-Guided GAN for Ultrasound Image Reconstruction from Single-Plane Wave RF Data},
+  author  = {Asad Samani, Maryam and Gharekhani, Ali and Farnia, Parastoo and Makki Abadi, Bahador},
+  journal = {Frontiers in Biomedical Technologies},
+  year    = {2026},
+  affiliation = {Iran University of Science and Technology; Tehran University of Medical Sciences},
 }
 ```
 
