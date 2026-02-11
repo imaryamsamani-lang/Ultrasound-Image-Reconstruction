@@ -90,9 +90,11 @@ Please cite the corresponding paper if you use this code in your work.
 
 If you use UCGNet in your research, please cite:
 
+```bash
 @article{UCGNet2026,
   title={UCGNet: Capsule-Guided GAN for Ultrasound Image Reconstruction from Single-Plane Wave RF Data},
 }
+```
 
 ## Acknowledgments
 
